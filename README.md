@@ -14,8 +14,7 @@ Java(Groovy)
 
 ## Automation tool 
 
-![alt text](https://i0.wp.com/fasteningcode.com/wp-content/uploads/2018/01/global.logo_.png?w=376 "Logo")
-
+<img align="right" width="100" height="100" src="https://i0.wp.com/fasteningcode.com/wp-content/uploads/2018/01/global.logo_.png?w=376">
 Katalon Studio
 
 ## Workflow
