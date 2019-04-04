@@ -13,7 +13,7 @@ Validate search functionality for guest and logged in user
 Java(Groovy)
 
 ## Automation tool 
-![Alt text]<img align="right" width="350" height="250" src="Image/katalon.png">
+<img align="right" width="350" height="250" src="Image/katalon.png">
 Katalon Studio
 
 ## Workflow
