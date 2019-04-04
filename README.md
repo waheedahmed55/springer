@@ -14,7 +14,7 @@ Java(Groovy)
 
 ## Automation tool 
 
-![alt text](https://i0.wp.com/fasteningcode.com/wp-content/uploads/2018/01/global.logo_.png?w=376 "Logo") ![](https://i0.wp.com/fasteningcode.com/wp-content/uploads/2018/01/global.logo_.png?w=376 "Title")
+![alt text](https://i0.wp.com/fasteningcode.com/wp-content/uploads/2018/01/global.logo_.png?w=376 "Logo")
 
 Katalon Studio
 
